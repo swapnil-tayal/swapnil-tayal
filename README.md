@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil-tayal&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil-tayal" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **swapniltayal224@gmail.com**
 
